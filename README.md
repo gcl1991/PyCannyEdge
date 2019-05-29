@@ -1,1 +1,2 @@
 # PyCannyEdge
+用于学习目的的Canny边缘检测python版本
